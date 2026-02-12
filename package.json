@@ -1,1 +1,19 @@
-
+{
+  "name": "alx-fe-todo-app",
+  "version": "1.0.0",
+  "description": "ALX Front-End Capstone: To-Do List App",
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.0"
+  }
+}
